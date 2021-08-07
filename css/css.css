@@ -1,0 +1,31 @@
+.foto{
+    position: relative;
+    top: 500px;
+    left: 190px;
+    height: auto;
+}
+.Titulo{
+    font-size: 50px;
+    position: relative;
+    top: 1cm;
+    left: 550px;
+    display: inline-block;
+    text-align: justify;
+}
+*{
+    background-color: cyan;
+}
+.selectar{
+    background-color: aliceblue;
+    font-size: 50px;
+    position: relative;
+    bottom: 6cm;
+}
+.botoncomprar{
+    padding: 10px;
+    background-color: blue;
+    color: darkorange;
+    position: relative;
+    bottom: 200px;
+    left: 1200px;
+}
